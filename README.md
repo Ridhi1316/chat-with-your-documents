@@ -59,7 +59,7 @@ This project provides a local solution for interacting with PDF documents using 
 **1. Clone the repository:**
 
 ```bash
-git clone 
+git clone https://github.com/Ridhi1316/chat-with-your-documents.git
 cd Chat-with-Your-Documents
 ```
 

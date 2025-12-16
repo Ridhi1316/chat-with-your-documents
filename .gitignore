@@ -21,7 +21,7 @@ uploaded_documents/
 # ======================
 # Frontend (Node / Vite)
 # ======================
-node_modules/
+node_modules/x
 front-chatdoc/node_modules/
 front-chatdoc/dist/
 front-chatdoc/.vite/
