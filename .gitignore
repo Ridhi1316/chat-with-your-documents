@@ -1,0 +1,33 @@
+# ======================
+# Python
+# ======================
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ======================
+# Environment variables
+# ======================
+.env
+
+# ======================
+# FAISS / App data
+# ======================
+faiss_vector_store/
+uploaded_documents/
+
+# ======================
+# Frontend (Node / Vite)
+# ======================
+node_modules/
+front-chatdoc/node_modules/
+front-chatdoc/dist/
+front-chatdoc/.vite/
+
+# ======================
+# OS / Editor junk
+# ======================
+.DS_Store
+Thumbs.db
